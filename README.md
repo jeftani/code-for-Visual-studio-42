@@ -40,5 +40,6 @@ follow the instructions
     
 ## Screenshots
 
+<img width="471" alt="Screen Shot 2023-12-30 at 10 42 52 AM" src="https://github.com/jeftani/code-for-Visual-studio-42/assets/78095454/52e41468-1c82-4d2e-a6fb-4e6cfd74a5ca">
 
 
